@@ -1,6 +1,7 @@
 # AR-Indoor-outdoor-navigation
 
-The Augmented Reality approach for navigation inside college campus and indoor navigation inside big buildings, where locating a person's office is a big deal. So we used Augmented reality sdk of vuforia which provides a ground detection feature and unity3d. The user clicks on the place where he wants to go arrows are placed on the ground and the user is navigated to the destination. 
+This project highlights the Augmented Reality approach for navigation inside the college campus and indoor navigation inside big buildings, where locating a person's office is a big deal. 
+So we used Augmented reality sdk of vuforia which provides a ground detection feature. The user clicks on the place where he/she wants to go and the arrows on the ground guide them to the destination.is navigated to the destination. 
 
 **TECHNOLOGY USED**
 
